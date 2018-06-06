@@ -1,0 +1,54 @@
+body {
+    background: url('../images/galaxy.jpg');
+}
+
+img {
+    max-height: 150px;
+}
+
+form,
+.MangaBtn {
+    background-color:lightblue;
+    color: darkgray;
+}
+
+form {
+    padding: 10px;
+}
+
+#newMangaInput {
+    color: black;
+}
+
+.ratingStyle {
+    color: white;
+    background-color: black;
+}
+
+#addManga {
+    background-color: white;
+    color: #474747;
+    border: none;
+}
+
+input {
+    margin: 10px;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+#MangaButtons {
+    margin: 10px;
+}
+
+.MangaBtn {
+    padding: 6px;
+    margin: 3px;
+}
+
+#giphyLogo {
+    margin: 20px;
+}
